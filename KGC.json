@@ -1,0 +1,115 @@
+{
+    "Staffs": [
+        {
+            "id": 1,
+            "name": "Staff1",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        },
+        {
+            "id": 2,
+            "name": "Staff2",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        },
+        {
+            "id": 3,
+            "name": "Staff3",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        }
+    ],
+
+    "members": [
+        {
+            "id": 1,
+            "name": "member1",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        },
+        {
+            "id": 2,
+            "name": "member2",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        },
+        {
+            "id": 3,
+            "name": "member3",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        }
+    ],
+    
+    "manager": [
+        {
+            "id": 1,
+            "name": "manager",
+            "address": "Kathmandu",
+            "phone": 9843223667,
+            "email": "ukmandal@gmail.com",
+            "employeeid": 101,
+            "dob": "1991-12-29",
+            "gender": ["Male", "Female"], 
+            "status": ["Active", "InActive"]
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "name": "Dumbbells"
+        },
+        {
+            "id": 2,
+            "name": "Pull-up Bar"
+        },
+        {
+            "id": 3,
+            "name": "Bench Press"
+        },
+        {
+            "id": 4,
+            "name": "Handgrip Exerciser"
+        },
+        {
+            "id": 5,
+            "name": "Inclined Bench Press"
+        },
+        {
+            "id": 6,
+            "name": "Tricep bars​"
+        }
+    ]
+
+}
